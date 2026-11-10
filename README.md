@@ -23,7 +23,7 @@ Seguridad bancaria · Arquitectura criptográfica · Infraestructura de ciberseg
 
 ### 👋 Sobre mí
 
-Ingeniero en Sistemas (Universidad Central de Venezuela) con Maestría en Ciberseguridad especializada en sistemas POS cifrados. Mi trayectoria pasa por desarrollo para terminales de pago (**Ingenico APOS A8**, **Dspread 4GDOCK**), mensajería **ISO 8583**, especificaciones **EMV** y los estándares **DUKPT** y **EFTSec** que protegen hoy las transacciones bancarias.
+Ingeniero en Sistemas con Maestría en Ciberseguridad especializada en sistemas POS cifrados. Mi trayectoria pasa por desarrollo para terminales de pago (**Ingenico APOS A8**, **Dspread 4GDOCK**), mensajería **ISO 8583**, especificaciones **EMV** y los estándares **DUKPT** y **EFTSec** que protegen hoy las transacciones bancarias.
 
 En julio de 2023 fundé **Society . E X E**, mi firma de ingeniería enfocada en seguridad bancaria, arquitectura criptográfica e infraestructura de ciberseguridad para el sector financiero.
 
