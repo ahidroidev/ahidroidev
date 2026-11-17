@@ -65,7 +65,7 @@ En julio de 2023 fundé **Society . E X E**, mi firma de ingeniería enfocada en
 
 | | |
 |---|---|
-| ✉️ Correo | ahidroid.exe@gmail.com |
+| ✉️ Correo | arada@society-exe.site |
 | 📞 Teléfono | +57 322 321 3752 |
 | 🌐 Sitio web | [society-exe.site](https://society-exe.site) |
 | 🏢 GitHub — Organización | [@Society-E-X-E](https://github.com/Society-E-X-E) |
