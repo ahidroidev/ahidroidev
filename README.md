@@ -16,7 +16,6 @@ Seguridad bancaria · Arquitectura criptográfica · Infraestructura de ciberseg
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/programameste)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@devcrackpy)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/devcrackpy)
-<iframe src="https://github.com/sponsors/ahidroidev/button" title="Sponsor ahidroidev" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 </div>
 
 <br/>
