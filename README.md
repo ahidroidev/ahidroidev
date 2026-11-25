@@ -16,7 +16,7 @@ Seguridad bancaria · Arquitectura criptográfica · Infraestructura de ciberseg
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/programameste)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@devcrackpy)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/devcrackpy)
-
+<iframe src="https://github.com/sponsors/ahidroidev/button" title="Sponsor ahidroidev" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 </div>
 
 <br/>
@@ -48,7 +48,7 @@ En julio de 2023 fundé **Society . E X E**, mi firma de ingeniería enfocada en
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090D13?style=flat-square&logo=typescript&logoColor=22D3EE)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090D13?style=flat-square&logo=postgresql&logoColor=22D3EE)
 
-`ISO 8583` · `EMV` · `DUKPT` · `EFTSec` · redes CISCO · CCTV y control de acceso biométrico · Scrum
+`ISO 8583` · `EMV` · `DUKPT` · `EFTSec` · redes `CISCO` · `CCTV` y control de acceso `biométrico` · `Scrum`
 
 <br/>
 
@@ -63,7 +63,7 @@ En julio de 2023 fundé **Society . E X E**, mi firma de ingeniería enfocada en
 
 ### 📬 Contacto
 
-| | |
+| Redes & contacts | |
 |---|---|
 | ✉️ Correo | arada@society-exe.site |
 | 📞 Teléfono | +57 322 321 3752 |
@@ -76,5 +76,5 @@ En julio de 2023 fundé **Society . E X E**, mi firma de ingeniería enfocada en
 <div align="center">
 <img src="assets/logo-mark-dark.svg" alt="Society . E X E" width="40" />
 <br/>
-<sub><strong>SOCIETY . E X E</strong> — Diseño seguro · Confianza verificable</sub>
+<sub><em> Society . E X E — Secure by design. · Verifiable trust.</em></sub>
 </div>
